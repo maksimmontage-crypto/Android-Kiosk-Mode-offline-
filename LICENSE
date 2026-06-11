@@ -1,21 +1,43 @@
-MIT License
+# Proprietary License
 
-Copyright (c) 2026 Max Meloman
+Copyright (c) 2026 Max Meloman (aka Deadguf). All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## 1. Grant of License
+"Kiosk Mode Enterprise" (the "Software") is provided to you free of charge for personal, educational, or internal corporate use. 
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+## 2. Restrictions
+The source code of the Software is closed and proprietary. You are strictly prohibited from:
+- Reverse engineering, decompiling, or disassembling the Software.
+- Modifying, adapting, or creating derivative works based on the Software.
+- Redistributing, selling, leasing, or sublicensing the Software or its source code.
+- Removing or altering any copyright, trademark, or proprietary notices within the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+## 3. No Warranty
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
+
+## 4. Support and Donations
+This project is developed and maintained independently. It will remain free and ad-free forever. If you wish to support the development, voluntary donations are appreciated via [DonationAlerts](https://www.donationalerts.com/r/maxmeloman).
+
+For any licensing inquiries, please contact the author.
+
+# Проприетарная лицензия
+
+Copyright (c) 2026 Max Meloman (aka Deadguf). Все права защищены.
+
+## 1. Предоставление прав
+Программное обеспечение "Kiosk Mode Enterprise" (далее — "ПО") предоставляется вам бесплатно для личного, образовательного или внутреннего корпоративного использования.
+
+## 2. Ограничения
+Исходный код ПО является закрытым и проприетарным. Вам строго запрещается:
+- Проводить реверс-инжиниринг, декомпиляцию или дизассемблирование ПО.
+- Модифицировать, адаптировать или создавать производные продукты на основе данного ПО.
+- Распространять, продавать, сдавать в аренду или передавать по сублицензии ПО или его исходный код.
+- Удалять или изменять любые уведомления об авторских правах, товарных знаках или правах собственности внутри ПО.
+
+## 3. Отказ от гарантий
+ПО ПРЕДОСТАВЛЯЕТСЯ "КАК ЕСТЬ" (AS IS), БЕЗ КАКИХ-ЛИБО ГАРАНТИЙ, ЯВНЫХ ИЛИ ПОДРАЗУМЕВАЕМЫХ, ВКЛЮЧАЯ, НО НЕ ОГРАНИЧИВАЯСЬ, ГАРАНТИЯМИ ТОВАРНОЙ ПРИГОДНОСТИ, СООТВЕТСТВИЯ КОНКРЕТНОЙ ЦЕЛИ И НЕНАРУШЕНИЯ ПРАВ. АВТОРЫ ИЛИ ПРАВООБЛАДАТЕЛИ НЕ НЕСУТ ОТВЕТСТВЕННОСТИ ЗА ЛЮБЫЕ ПРЕТЕНЗИИ, УБЫТКИ ИЛИ ИНУЮ ОТВЕТСТВЕННОСТЬ, ВОЗНИКАЮЩИЮ В РЕЗУЛЬТАТЕ ИСПОЛЬЗОВАНИЯ ПО.
+
+## 4. Поддержка и пожертвования
+Этот проект разрабатывается и поддерживается независимо. Он останется бесплатным и без рекламы навсегда. Если вы хотите поддержать разработку, добровольные пожертвования приветствуются через [DonationAlerts](https://www.donationalerts.com/r/maxmeloman).
+
+По любым вопросам, связанным с лицензированием, пожалуйста, свяжитесь с автором.
